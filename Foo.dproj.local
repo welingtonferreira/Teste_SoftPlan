@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/07 10:20:59.000.725,=C:\appmanutencao-master\src\Unit1.pas</Transaction>
+    <Transaction>2021/11/07 10:21:14.000.224,C:\appmanutencao-master\src\Threads.dfm=C:\appmanutencao-master\src\Unit1.dfm</Transaction>
+    <Transaction>2021/11/07 10:21:14.000.224,C:\appmanutencao-master\src\Threads.pas=C:\appmanutencao-master\src\Unit1.pas</Transaction>
+    <Transaction>2021/11/08 09:27:15.000.958,C:\appmanutencao-master\src\Threads.dfm=C:\appmanutencao-master\src\Threads_old.dfm</Transaction>
+    <Transaction>2021/11/08 09:27:15.000.958,C:\appmanutencao-master\src\Threads.pas=C:\appmanutencao-master\src\Threads_old.pas</Transaction>
+    <Transaction>2021/11/08 09:45:12.000.376,=C:\appmanutencao-master\src\Threads.pas</Transaction>
+    <Transaction>2022/03/22 12:05:02.000.118,C:\Users\Welington\Downloads\appmanutencao-master-main\appmanutencao-master\src\Foo.dproj=D:\BACKUP\Testes\SoftPlan\Foo.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
